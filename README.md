@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4895EF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Vinicius;I'm+15+years+old;I'm+from+São+Paulo,+Brazil;I+study+System+Development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4895EF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Vinicius;I'm+16+years+old;I'm+from+São+Paulo,+Brazil;I+study+System+Development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href="https://instagram.com/mavinous" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
