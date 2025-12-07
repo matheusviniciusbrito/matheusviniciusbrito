@@ -1,4 +1,4 @@
-Eu sou o [**Matheus**](https://www.linkedin.com/in/matheusviniciusbrito/), um desenvolvedor de software técnico em desenvolvimento de sistemas residente em São Paulo, Brasil.
+Eu sou o [**Matheus**](https://www.linkedin.com/in/matheusviniciusbrito/), um desenvolvedor de software e Técnico em Desenvolvimento de Sistemas, residente em São Paulo, Brasil.
 
 Gosto de criar soluções que realmente resolvem problemas. Desde projetos escolares até aplicações full-stack que acabam se tornando algo maior do que eu imaginei
 
